@@ -1,3 +1,3 @@
 # l/l archive
 
-> this archive contains 1588 channeling transcripts
+> this archive contains 1588 channeling transcripts from [l/l research](https://llresearch.org)
