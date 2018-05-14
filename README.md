@@ -1,6 +1,6 @@
 # welcome to the lawofone.space
 
-* [view updates, notes, and todos for this project](updates)
+* [view updates, notes, and todos for this project](updates.md)
 
 ## notes
 
