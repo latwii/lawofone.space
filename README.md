@@ -8,7 +8,7 @@
 
 #### full text search & github
 
-You can search the full text of the corpus by visiting this page. The search bar at the top left of the main page is currently a bit slow and will only search the short descriptions for each transcript.
+You can search the full text of the corpus by visiting this [search page on GitHub](https://github.com/latwii/lawofone.space/search?q=&type=Code). The search bar at the top left of the main page is currently a bit slow and will only search the short descriptions for each transcript.
 
 You can browse the entire archive on our [GitHub page](https://github.com/latwii/lawofone.space).
 
