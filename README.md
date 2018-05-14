@@ -1,4 +1,18 @@
-# welcome to the l/l archive
+# welcome to the lawofone.space
+
+## updates
+
++ May 14, 2018 -- Initial release
+
+## notes
+
++ Please note that this site is a work-in-progress.
+
+### things that are not working
+
++ Footnotes are non-functioning inside a transcript
+
+
 
 ## statistics
 
