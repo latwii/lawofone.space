@@ -6,10 +6,11 @@
 
 + Please note that this site is a work-in-progress.
 
-#### full text search
+#### full text search & github
 
-You can use the search bar at our [GitHub repository](https://github.com/latwii/latwii) to search inside the text of the transcripts. The search bar at the top left of the main page is currently a bit slow and will only search the short descriptions for each transcript.
+You can search the full text of the corpus by visiting this page. The search bar at the top left of the main page is currently a bit slow and will only search the short descriptions for each transcript.
 
+You can browse the entire archive on our [GitHub page](https://github.com/latwii/lawofone.space).
 
 ## statistics
 
