@@ -1,5 +1,7 @@
-## [16 de julho de 2005, Meditação Especial](pt/2005/2005_0716)
+## 16 de julho de 2005, Meditação Especial
 
+
+[Read transcript](pt/2005/2005_0716)
 
 > Q’uo: Acreditamos que, hoje, uma sessão livre de perguntas e respostas, seja o esperado, portanto colocamo-nos à disposição para respondermos quaisquer perguntas que surgirem.
 

@@ -1,5 +1,7 @@
-## [de/2011_0409](de/2011/2011_0409)
+## de/2011_0409
 
+
+[Read transcript](de/2011/2011_0409)
 
 > Jim: Die Frage diese Woche ist, wie das Konzept von Dienst variiert oder sich unterscheidet, wenn es in Zeit/Raum angeboten wird, im Gegensatz zu einem Anbieten in Raum/Zeit? Wie unterscheidet sich Erfahrung im Allgemeinen von Zeit/Raum zu Raum/Zeit?
 

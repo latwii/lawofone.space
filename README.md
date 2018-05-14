@@ -11,8 +11,9 @@
 ### things that are not working
 
 + Footnotes are non-functioning inside a transcript
-
-
++ Search has been added, but please note that this is currently a stop-gap. 
+  + Search is slow, (near unusuable on mobile devices) and only searches transcript descriptions.
+  + In the future, full text of all transcripts will be indexed with lunr.js and it should be quite snappy
 
 ## statistics
 

@@ -1,5 +1,7 @@
-## [de/1972_0300](de/1972/1972_0300)
+## de/1972_0300
 
+
+[Read transcript](de/1972/1972_0300)
 
 > Hatonn: Ich spreche durch dieses Instrument. Ich werde über das Thema der Reife zu euch sprechen, denn dies habt ihr erbeten. Wie ihr bereits angedeutet habt, mag sich dieses Konzept etwas von dem, was im Allgemeinen von euren Völkern wertgeschätzt wird, unterscheiden.
 

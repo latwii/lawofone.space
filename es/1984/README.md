@@ -1,5 +1,7 @@
-## [Sesión 106, 15 de marzo de 1984](es/1984/1984_0315_book_5)
+## Sesión 106, 15 de marzo de 1984
 
+
+[Read transcript](es/1984/1984_0315_book_5)
 
 > La Ley del Uno, Libro V, Fragmento 56 y Epílogo
 

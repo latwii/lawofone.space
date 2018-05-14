@@ -1,5 +1,7 @@
-## [15 mars 1984](fr/1984/1984_0315_book_5)
+## 15 mars 1984
 
+
+[Read transcript](fr/1984/1984_0315_book_5)
 
 > La Loi Une, Livre V, Séance 106, Fragment 56
 
