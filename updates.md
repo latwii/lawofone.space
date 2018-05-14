@@ -31,4 +31,5 @@
   + [ ] [Library (books)](http://llresearch.org/library.aspx)
   + [ ] [older (unofficial) transcripts (Origins)](http://llresearch.org/origins/origins_toc.aspx)
   + [ ] [Homecomings and Gatherings (Channeling Circles)](http://llresearch.org/library.aspx)
-  + [ ] The new _Ra Contact_ book
+  + [ ] The new _Ra Contact_ book (once released)
++ [ ] add sharing via social media
