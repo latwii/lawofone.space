@@ -1,19 +1,15 @@
 # welcome to the lawofone.space
 
-## updates
-
-+ May 14, 2018 -- Initial release
+* [view updates, notes, and todos for this project](updates)
 
 ## notes
 
 + Please note that this site is a work-in-progress.
 
-### things that are not working
+#### full text search
 
-+ Footnotes are non-functioning inside a transcript
-+ Search has been added, but please note that this is currently a stop-gap. 
-  + Search is slow, (near unusuable on mobile devices) and only searches transcript descriptions.
-  + In the future, full text of all transcripts will be indexed with lunr.js and it should be quite snappy
+You can use the search bar at our [GitHub repository](https://github.com/latwii/latwii) to search inside the text of the transcripts. The search bar at the top left of the main page is currently a bit slow and will only search the short descriptions for each transcript.
+
 
 ## statistics
 
